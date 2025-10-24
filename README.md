@@ -1,4 +1,13 @@
-# End-to-end-Machine-Learning-Project-with-MLflow
+# Docker commad
+
+```
+docker build -t wine-predictor .
+docker run -p 8000:8000 wine-predictor
+docker stop wine-predictor
+docker rm <container_name_or_id>
+docker rmi wine-predictor
+
+```
 
 
 ## Workflows
