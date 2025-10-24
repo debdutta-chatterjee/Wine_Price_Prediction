@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/work_repo/Wine_Price_Prediction/mlruns/0/54019be19b8c4e84b5047ba8e245f3ff/artifacts
+end_time: 1761322054262
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 54019be19b8c4e84b5047ba8e245f3ff
+run_name: wistful-steed-343
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1761322045824
+status: 3
+tags: []
+user_id: Debdutta Chatterjee

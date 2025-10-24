@@ -1,0 +1,10 @@
+artifact_location: file:///C:/work_repo/Wine_Price_Prediction/mlruns/0/models/m-4a800553dba847df9e2f5ec9dc35ab80/artifacts
+creation_timestamp: 1761322046080
+experiment_id: '0'
+last_updated_timestamp: 1761322054241
+model_id: m-4a800553dba847df9e2f5ec9dc35ab80
+model_type: null
+name: model
+source_run_id: 54019be19b8c4e84b5047ba8e245f3ff
+status: 2
+status_message: null
